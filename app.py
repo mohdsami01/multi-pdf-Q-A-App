@@ -23,7 +23,7 @@ if not hf_api_token:
 st.set_page_config(
     page_title="PDF Q&A Bot with LangChain & Hugging Face", layout="wide"
 )
-st.title("📚 PDF Q&A APP")
+st.title("📚 Multi-PDF Q&A APP")
 st.write("Upload one or more PDFs and ask questions based on their content!")
 
 
